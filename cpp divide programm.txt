@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace  std;
+int main()
+{
+    int num1 = 20;
+    int num2 = 5;
+    int total = num1/num2;   // divide symbol *
+    cout<<" total = "<<num1/num2<<endl;
+    return 0;
+}
+ //https://github.com/praveenkumar9767
